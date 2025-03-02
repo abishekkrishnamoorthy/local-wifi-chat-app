@@ -1,4 +1,4 @@
-MyLANChatApp/node_modules/
+chat_app/node_modules/
 server/node_modules/
 
 
@@ -7,10 +7,10 @@ server/node_modules/
 node_modules/
 
 # Expo
-MyLANChatApp/.expo/
-MyLANChatApp/dist/
-MyLANChatApp/web-build/
-MyLANChatApp/expo-env.d.ts
+chat_app/.expo/
+chat_app/dist/
+chat_app/web-build/
+chat_app/expo-env.d.ts
 
 # Native
 *.orig.*
